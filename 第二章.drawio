@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T14:49:02.373Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="T9H_cvjOkQHc2bvaADEO" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-23T14:58:49.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="RQ0P4yS19kzO7WhiuXSA" version="18.1.1" type="github">
   <diagram id="vgWMGFTNDj85Z4Z896OK" name="第 1 页">
-    <mxGraphModel dx="688" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="688" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="sOpDGVtZxWIFI3x0ilre-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sOpDGVtZxWIFI3x0ilre-4" target="sOpDGVtZxWIFI3x0ilre-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sOpDGVtZxWIFI3x0ilre-4" value="回忆聚会" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sOpDGVtZxWIFI3x0ilre-4" value="晚饭时间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="120" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sOpDGVtZxWIFI3x0ilre-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sOpDGVtZxWIFI3x0ilre-6" target="sOpDGVtZxWIFI3x0ilre-15">
@@ -42,17 +42,17 @@
         <mxCell id="sOpDGVtZxWIFI3x0ilre-18" value="回卧室学习" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="360" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="sOpDGVtZxWIFI3x0ilre-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sOpDGVtZxWIFI3x0ilre-20" target="sOpDGVtZxWIFI3x0ilre-22">
+        <mxCell id="sOpDGVtZxWIFI3x0ilre-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sOpDGVtZxWIFI3x0ilre-20" target="sOpDGVtZxWIFI3x0ilre-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sOpDGVtZxWIFI3x0ilre-20" value="回卧室学习" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sOpDGVtZxWIFI3x0ilre-20" value="发生误会" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="80" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sOpDGVtZxWIFI3x0ilre-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sOpDGVtZxWIFI3x0ilre-22" target="sOpDGVtZxWIFI3x0ilre-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sOpDGVtZxWIFI3x0ilre-22" value="第二人格自我对话" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="120" width="120" height="20" as="geometry" />
+        <mxCell id="sOpDGVtZxWIFI3x0ilre-22" value="回卧室学习" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="160" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sOpDGVtZxWIFI3x0ilre-23" value="正确引导" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sOpDGVtZxWIFI3x0ilre-25" target="sOpDGVtZxWIFI3x0ilre-27">
           <mxGeometry relative="1" as="geometry" />
@@ -63,13 +63,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sOpDGVtZxWIFI3x0ilre-25" value="玩家控制" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="480" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sOpDGVtZxWIFI3x0ilre-27" value="抑郁值升高" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="280" width="120" height="20" as="geometry" />
+          <mxGeometry x="480" y="320" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sOpDGVtZxWIFI3x0ilre-29" value="抑郁值降低" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="320" width="120" height="20" as="geometry" />
+          <mxGeometry x="480" y="360" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sOpDGVtZxWIFI3x0ilre-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sOpDGVtZxWIFI3x0ilre-31" target="sOpDGVtZxWIFI3x0ilre-18">
           <mxGeometry relative="1" as="geometry" />
@@ -78,7 +78,13 @@
           <mxGeometry x="280" y="320" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sOpDGVtZxWIFI3x0ilre-37" value="第二人格自我对话" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="160" width="120" height="20" as="geometry" />
+          <mxGeometry x="480" y="200" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sOpDGVtZxWIFI3x0ilre-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sOpDGVtZxWIFI3x0ilre-46" target="sOpDGVtZxWIFI3x0ilre-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sOpDGVtZxWIFI3x0ilre-46" value="抑郁值升高" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="120" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
