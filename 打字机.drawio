@@ -1,1 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T18:31:11.303Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" version="18.1.1" etag="5B5Ld_dZsTsdSfanRn5N" type="github"><diagram id="2ft9WwPstMIMn1nYP_sB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-23T18:43:03.026Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="rr_xmeCqs6xwTsbXPW-G" version="18.1.1" type="github">
+  <diagram id="2ft9WwPstMIMn1nYP_sB" name="第 1 页">
+    <mxGraphModel dx="540" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Q33O-hkkMetX8cIW8rs_-1" value="Unity UGUI文本打字效果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q33O-hkkMetX8cIW8rs_-6" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="160" y="50" width="20" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Q33O-hkkMetX8cIW8rs_-11" value="扩展" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q33O-hkkMetX8cIW8rs_-8" target="Q33O-hkkMetX8cIW8rs_-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q33O-hkkMetX8cIW8rs_-8" value="UGUI Text" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q33O-hkkMetX8cIW8rs_-10" value="TypeTextComponentUtility" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q33O-hkkMetX8cIW8rs_-12" value="TypeTextComponent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q33O-hkkMetX8cIW8rs_-13" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="235" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Q33O-hkkMetX8cIW8rs_-23" value="调用" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q33O-hkkMetX8cIW8rs_-14" target="Q33O-hkkMetX8cIW8rs_-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="250" />
+              <mxPoint x="560" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q33O-hkkMetX8cIW8rs_-14" value="协程TypeText" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="235" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q33O-hkkMetX8cIW8rs_-16" value="Substring文本截取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q33O-hkkMetX8cIW8rs_-17" value="富文本检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="330" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q33O-hkkMetX8cIW8rs_-18" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="75" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Q33O-hkkMetX8cIW8rs_-19" value="TypeText" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="75" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q33O-hkkMetX8cIW8rs_-20" value="IsSkippable &lt;br&gt;文本跳过检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q33O-hkkMetX8cIW8rs_-21" value="SkiptypeText&lt;br&gt;跳过文本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="170" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
