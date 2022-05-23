@@ -1,1 +1,99 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T15:34:58.458Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" version="18.1.1" etag="B4YneosyCbJKUn-_ca0l" type="github"><diagram id="lUyONejUOsZmrfGbkppZ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-23T15:55:54.582Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="OUx94Y_cyiuieg8McUMs" version="18.1.1" type="github">
+  <diagram id="lUyONejUOsZmrfGbkppZ" name="第 1 页">
+    <mxGraphModel dx="688" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YY3Tl-ZVdhQwYrQoRmQm-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YY3Tl-ZVdhQwYrQoRmQm-2" target="YY3Tl-ZVdhQwYrQoRmQm-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YY3Tl-ZVdhQwYrQoRmQm-2" value="第五章" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YY3Tl-ZVdhQwYrQoRmQm-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YY3Tl-ZVdhQwYrQoRmQm-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YY3Tl-ZVdhQwYrQoRmQm-4" value="高考发挥失常" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YY3Tl-ZVdhQwYrQoRmQm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="YY3Tl-ZVdhQwYrQoRmQm-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="220" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YY3Tl-ZVdhQwYrQoRmQm-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YY3Tl-ZVdhQwYrQoRmQm-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YY3Tl-ZVdhQwYrQoRmQm-7" value="与父亲沟通" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YY3Tl-ZVdhQwYrQoRmQm-8" value="说出抑郁" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YY3Tl-ZVdhQwYrQoRmQm-11" target="YY3Tl-ZVdhQwYrQoRmQm-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YY3Tl-ZVdhQwYrQoRmQm-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YY3Tl-ZVdhQwYrQoRmQm-11" target="YY3Tl-ZVdhQwYrQoRmQm-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YY3Tl-ZVdhQwYrQoRmQm-32" value="沉默" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YY3Tl-ZVdhQwYrQoRmQm-31">
+          <mxGeometry x="-0.2453" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YY3Tl-ZVdhQwYrQoRmQm-11" value="玩家控制" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YY3Tl-ZVdhQwYrQoRmQm-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YY3Tl-ZVdhQwYrQoRmQm-13" target="YY3Tl-ZVdhQwYrQoRmQm-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="290" />
+              <mxPoint x="410" y="100" />
+              <mxPoint x="500" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YY3Tl-ZVdhQwYrQoRmQm-13" value="抑郁值降低" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YY3Tl-ZVdhQwYrQoRmQm-17" value="抑郁值升高" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YY3Tl-ZVdhQwYrQoRmQm-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YY3Tl-ZVdhQwYrQoRmQm-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YY3Tl-ZVdhQwYrQoRmQm-40" value="高" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YY3Tl-ZVdhQwYrQoRmQm-25" target="YY3Tl-ZVdhQwYrQoRmQm-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YY3Tl-ZVdhQwYrQoRmQm-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YY3Tl-ZVdhQwYrQoRmQm-25" target="YY3Tl-ZVdhQwYrQoRmQm-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="140" />
+              <mxPoint x="430" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YY3Tl-ZVdhQwYrQoRmQm-42" value="低" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YY3Tl-ZVdhQwYrQoRmQm-41">
+          <mxGeometry x="-0.2831" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YY3Tl-ZVdhQwYrQoRmQm-25" value="判断抑郁值" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YY3Tl-ZVdhQwYrQoRmQm-37" value="接受治疗，良好结局" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YY3Tl-ZVdhQwYrQoRmQm-39" value="接受治疗，较好结局" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="240" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YY3Tl-ZVdhQwYrQoRmQm-43" value="接受结果，最好结局" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="120" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
